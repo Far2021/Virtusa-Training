@@ -1,6 +1,6 @@
 ## Spring Boot Application
 ### I had developed a spring boot application that registers student details, such as name, course, and fees, and then displays all the registered student's information along with the serial number. And also we can edit or delete the details whenever required.
-1. It involves operations like:
+1. Operations included:
 - Insertion
 - Updation
 - Deletion
@@ -15,7 +15,7 @@
 - Spring Web
 - Spring Data JPA
 - Thymeleaf
-- SpringBoot Dev Tools
+- Spring Boot Dev Tools
 - Spring Security
 4. Screenshots
 ![image](https://user-images.githubusercontent.com/80443905/203972480-cbea0790-420c-433a-9b37-1d269493c748.png)
