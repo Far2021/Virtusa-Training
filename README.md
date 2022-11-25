@@ -1,5 +1,5 @@
 # Virtusa-Training
-![image](https://user-images.githubusercontent.com/80443905/203973242-a8f0e5d8-97b2-48a5-9b9a-32deb4f3fd77.png)
+<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
 [1] I had developed a spring boot application that registers student details, such as name, course, and fees, and then displays all the registered student's information along with the serial number.
 - 
 - [x] ![image](https://user-images.githubusercontent.com/80443905/203972480-cbea0790-420c-433a-9b37-1d269493c748.png)
