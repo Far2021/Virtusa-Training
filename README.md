@@ -10,7 +10,7 @@
 - Java
 - HTML
 - CSS
-3. Dependencies included:
+3. Dependencies Used:
 - MySQL Driver
 - Spring Web
 - Spring Data JPA
